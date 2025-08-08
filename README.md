@@ -14,7 +14,7 @@ It features a navigation menu that adapts to mobile and desktop views, with a ha
 - The menu items are interactive and easy to customize.
 
 ## Live Demo
-[View on GitHub Pages](https://yourusername.github.io/reponame/)
+https://pavankalyan-13-p.github.io/task4-menu-project/
 
 ## Files
 - `index.html` – Main HTML file
